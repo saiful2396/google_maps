@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 
 class ShowGoogleMap extends StatefulWidget {
+  static const id = 'show_maps';
   @override
   _ShowGoogleMapState createState() => _ShowGoogleMapState();
 }
