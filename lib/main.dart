@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:google_maps/earthquake_screen.dart';
 import 'package:google_maps/map_screens/show_maps.dart';
+import 'ui/earthquake_screen.dart';
 
 void main() => runApp(MyApp());
 
